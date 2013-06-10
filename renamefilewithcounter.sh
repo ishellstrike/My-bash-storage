@@ -1,5 +1,6 @@
     #!bin/bash
     #labs.sh
+    #s1.ext s2.ext ...sn.ext -> s1+k.ext s2+k.ext sn+k.ext
      
     parstr=$1
     parext=$2
